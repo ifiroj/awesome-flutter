@@ -16,11 +16,9 @@
   </a>
 </p>
 
-
 <a href="https://flutter.dev/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
-
 
 ## Live
 
@@ -28,90 +26,65 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Streams
 
-
-
-
 ### 🇺🇸 United States
 
-| Monday          | Tuesday         | Wednesday       | Thursday        | Friday          | Saturday        | Sunday              
-| --------------- | --------------- | --------------- | --------------- | --------------- | --------------- | ---------------
-|        |        |        | [Rody Davis](https://www.youtube.com/channel/UCqc2elhr0N52GVsyNaWtLvA) **9:45 AM	CET** <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" />      |        |        |    
-    
+| Monday | Tuesday | Wednesday | Thursday                                                                                                                                                                  | Friday | Saturday | Sunday |
+| ------ | ------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | ------ |
+|        |         |           | [Rody Davis](https://www.youtube.com/channel/UCqc2elhr0N52GVsyNaWtLvA) **9:45 AM    CET** <img alt="Thanks" src="https://img.shields.io/badge/streaming-now-green.svg" /> |        |          |        |
 
 ### 🇦🇴 Angola
 
-
 ### 🇦🇺 Australia
-
 
 ### 🇧🇷 Brazil
 
-
 ### 🇨🇦 Canada
-
 
 ### 🇨🇮 Côte d'Ivoire (Ivory Coast)
 
-
 ### 🇩🇰 Denmark
-
 
 ### 🇪🇹 Ethiopia
 
-
 ### 🇫🇷 France
-
 
 ### 🇩🇪 Germany
 
+| Stream Information                                                                                       | Monday | Tuesday | Wednesday                                                                               | Thursday | Friday | Saturday                                                                            | Sunday |
+| -------------------------------------------------------------------------------------------------------- | ------ | ------- | --------------------------------------------------------------------------------------- | -------- | ------ | ----------------------------------------------------------------------------------- | ------ |
+| [Channel: FlutterExplained](https://youtube/c/flutterexplained)<br/>Youtube<br/>Stream Language: English |        |         | [Pair Programming - Flutter Explained](https://flutterexplained.live)<br/>3:00 p.m. CET |          |        | [Solo Programming / Just Chatting](https://flutterexplained.live)<br/>3:00 p.m. CET |        |
 
 ### 🇬🇷 Greece
 
-
 ### 🇮🇩 Indonesia
-
 
 ### 🇯🇵 Japan
 
-
 ### 🇰🇷 Korea
-
 
 ### 🇲🇾 Malaysia
 
-
 ### 🇳🇬 Nigeria
-
 
 ### 🇵🇰 Pakistan
 
-
 ### 🇵🇭 Philippines
-
 
 ### 🇵🇱 Poland
 
-
 ### 🇵🇹 Portugal
-
 
 ### 🇵🇪 Peru
 
-
 ### 🇷🇺 Russia
-
 
 ### 🇪🇸 Spain
 
-
 ### 🇱🇰 Sri Lanka
-
 
 ### 🇹🇷 Turkey
 
-
 ### 🇺🇦 Ukraine
-
 
 ### 🇬🇧 United Kingdom
 
@@ -119,12 +92,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ### 🏴 Kurdistan
 
-
 ### 🇳🇴 Norway
 
-
 ### 🇺🇿 Uzbekistan
-
 
 ## License
 
